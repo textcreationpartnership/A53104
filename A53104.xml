@@ -1,0 +1,286 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached in the parish-church of St. Sepulchres, on Monday the 30th of January, 1693/4 being the anniversary solemnity for the martyrdom of King Charles I / by Richard Newman, late Vicar of Kynton ...</title>
+            <author>Newman, Richard, Vicar of Kynton.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53104</idno>
+            <idno type="STC">Wing N924</idno>
+            <idno type="STC">ESTC R7939</idno>
+            <idno type="EEBO-CITATION">13242246</idno>
+            <idno type="OCLC">ocm 13242246</idno>
+            <idno type="VID">98641</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53104)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98641)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 430:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached in the parish-church of St. Sepulchres, on Monday the 30th of January, 1693/4 being the anniversary solemnity for the martyrdom of King Charles I / by Richard Newman, late Vicar of Kynton ...</title>
+                  <author>Newman, Richard, Vicar of Kynton.</author>
+               </titleStmt>
+               <extent>29 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Randal Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. 29.</note>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Samuel, 2nd, I, 14 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:98641:1"/>
+            <pb facs="tcp:98641:1"/>
+            <p>A SERMON Preach'd at St. Sepulchres, ON Monday <hi>the</hi> 30th. <hi>of</hi> January, 1693/3.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:98641:2"/>
+            <p>
+               <hi>Imprimatur,</hi>
+            </p>
+            <p>
+               <hi>R. Barker,</hi> R. R. in Chriſto Patri ac Domino Domino <hi>Johanni</hi> Archiep. <hi>Cant.</hi> à Sacris Domeſt.</p>
+            <p>
+               <hi>Martii</hi> 21<hi rend="sup">mo.</hi> 
+               <hi>1693/4.</hi>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:98641:2" rendition="simple:additions"/>
+            <p>A SERMON Preached in the Parish-Church of St. Sepulchres, ON <hi>Monday</hi> the 30th. of <hi>January,</hi> 1693/4.</p>
+            <p>BEING THE <hi>Anniverſary Solemnity</hi> For the MARTYRDOM of King Charles I.</p>
+            <p>By <hi>Richard Newman,</hi> late Vicar of <hi>Kynton</hi> in <hi>Warwick-Shire;</hi> and now Preacher of the Evening Lecture at St. <hi>Ann's</hi>within <hi>Alderſgate.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Randal Taylor,</hi> near <hi>Stationers-Hall,</hi> 1694.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:98641:3" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:98641:3"/>
+            <head>
+               <q>
+                  <bibl>2 Sam. I. ver. 14.</bibl>
+And David ſaid unto him, How, waſt thou not afraid to ſtretch forth thine hand, to de<g ref="char:EOLhyphen"/>ſtroy the Lord's Anointed?</q>
+            </head>
+            <p>THIS whole Chapter contains in it an Eminent Relation of cer<g ref="char:EOLhyphen"/>tain Remarkable Paſſages, con<g ref="char:EOLhyphen"/>cerning the fatal Death of King <hi>Saul,</hi> and the humble Carriage of Holy <hi>Da<g ref="char:EOLhyphen"/>vid</hi> there-upon. The whole Hiſtory whereof ſeems to be Recorded on pur<g ref="char:EOLhyphen"/>poſe, for the Vindication of the <hi>Holy-Man,</hi> from the unjuſt Imputation, of deſigning to bereave <hi>Saul</hi> of his Life, by the defenſive Arms which he had formerly borne againſt him.</p>
+            <p>And Three Particulars are therein very Remarkable, as Evidences of his Innocence.</p>
+            <pb n="4" facs="tcp:98641:4"/>
+            <p>Firſt, <hi>His unfeigned Grief for the la<g ref="char:EOLhyphen"/>mentable Death which he underſtood had be<g ref="char:EOLhyphen"/>fallen him,</hi> ver. 12.</p>
+            <p>Secondly, <hi>His Indignation againſt, and Juſtice upon the Perſon, who was ſo auda<g ref="char:EOLhyphen"/>cious, as to profeſs he had been the Inſtru<g ref="char:EOLhyphen"/>ment to haſten it,</hi> ver. 13, to 17.</p>
+            <p>Thirdly, <hi>His pious Endeavour to perpe<g ref="char:EOLhyphen"/>tuate the Memory of his deceaſed Sovereign, in a mournful Ditty compoſed by himſelf, and appointed, in ſucceeding Ages, to be Sung, in a ſolemn manner, by the Children of</hi> Judah.</p>
+            <p>Nor was this of <hi>David</hi>'s Example al<g ref="char:EOLhyphen"/>together Barren; for we find it after<g ref="char:EOLhyphen"/>wards followed by the Godly <hi>Jews,</hi> up<g ref="char:EOLhyphen"/>on the Occaſion of the unhappy Death of good <hi>Joſiah;</hi> they Mourned ſo truly, and ſo heartily for him, that the great<g ref="char:EOLhyphen"/>neſs of their Sorrow, in after-Ages, grew into a Proverb, <hi>Zech.</hi> 12.11. where
+<pb n="5" facs="tcp:98641:4"/>
+'tis ſaid, <hi>As the Mourning of Hadadrimon in the Valley of Megiddon.</hi> And among their ſolemn Lamentations, had One kept on Record to Poſterity, penn'd by an Holy Prophet, <hi>Lam.</hi> 4.20. and perpetuated the ſolemn Remembrance of that heavy Stroak, by publick Com<g ref="char:EOLhyphen"/>mand; for ſo you have it expreſt at large in 2 Chron. 35.24, 25. <hi>All Judah and Jeruſalem mourned for Joſiah. And Je<g ref="char:EOLhyphen"/>remiah lamented for Joſiah, and all the ſing<g ref="char:EOLhyphen"/>ing-men, and ſinging-women ſpake of Joſiah in their Lamentations to this day, and made them an Ordinance in Iſrael, and behold they are written in the Lamentations.</hi>
+            </p>
+            <p>And afterwards, when <hi>Gedaliah</hi> the good Governour, left by <hi>Nebuzeradon,</hi> was treacherouſly ſlain by <hi>Iſhmael, Jer.</hi> 41.1, 2. we find there was an Annual Faſt appointed and obſerved, till the Return from Captivity, upon the very Month wherein he was Slain, as the moſt judicious Interpreters expound
+<pb n="6" facs="tcp:98641:5"/>
+the <hi>Faſt of the Seventh Month, Zech.</hi> 7.5. Which Examples loudly call for the like deep and ſolemn Impreſſions, and Expreſſions of heartieſt Sorrow, from all Loyal Subjects, upon like Ac<g ref="char:EOLhyphen"/>cidents, and abundantly juſtify the An<g ref="char:EOLhyphen"/>nual Solemnity of this Day; eſpecially, if we conſider how great a Loſs theſe Kingdoms ſuffered, and how great a Guilt they contracted, by the lamen<g ref="char:EOLhyphen"/>table Providence, that occaſion'd it: Of which, I ſhall ſpeak more plenti<g ref="char:EOLhyphen"/>fully in my enſuing Diſcourſe.</p>
+            <p>I confeſs indeed, the Tears of Sub<g ref="char:EOLhyphen"/>jects are the beſt Spices to embalm a Sovereign's Memory withall; nor can there be a louder Atteſtation to the Deſerts of a Prince, than that his Loſs is bewail'd, as a common Calamity. Upon which Account it is, That the Almighty promiſes it, as a ſignal Mer<g ref="char:EOLhyphen"/>cy to the hopeful Son of wicked <hi>Je<g ref="char:EOLhyphen"/>roboam, That all Iſrael ſhall mourn for him,</hi>
+               <pb n="7" facs="tcp:98641:5"/>
+1 Kings 14.13. and threatens it as a heavy Judgment on <hi>Jehoiakim,</hi> the wick<g ref="char:EOLhyphen"/>ed Son of good <hi>Joſiah, That he ſhould be buried with the burial of an Aſs;</hi> thrown in a Ditch, without any one to mourn or lament for him, neither Brother, nor Siſter, nor Subject, <hi>Jer.</hi> 22.18, 19. And this may ſuffice for a ſhort Ju<g ref="char:EOLhyphen"/>ſtification of the Annual Solemnity of this Day.</p>
+            <p>I now come to the Text it ſelf, which are the Words of Holy <hi>David</hi> to this wicked <hi>Amalekite, How, waſt thou not a<g ref="char:EOLhyphen"/>fraid to ſtretch forth thine hand to deſtroy the Lords Anointed?</hi>
+            </p>
+            <p>In which Words I ſhall obſerve theſe things:</p>
+            <p>Firſt, <hi>The Perſon that committed this hor<g ref="char:EOLhyphen"/>rid Fact. Thou,</hi> who oughteſt to have avoided it with an holy Fear, and that under a Two-fold Capacity:</p>
+            <p n="1">1ſt, <hi>As a Private Man.</hi>
+            </p>
+            <pb n="8" facs="tcp:98641:6"/>
+            <p n="2">2dly, <hi>As a Subject;</hi> and, at that time, in a more eſpecial Relation, as being then a Souldier under King <hi>Saul.</hi>
+            </p>
+            <p>Secondly, <hi>The Perſon on whom this hor<g ref="char:EOLhyphen"/>rid Crime was committed;</hi> and who ought to have been otherwiſe dealt with, if conſidered in this Two-fold Capacity:</p>
+            <p n="1">1. <hi>In Relation to his Civil Quality.</hi> He was <hi>Unctus,</hi> a Perſon who had receiv'd Regal Unction, and ſo was thereby ſeparated from the <hi>Vulgus,</hi> or common ſort of Men; a King that was ſolemn<g ref="char:EOLhyphen"/>ly inaugurated, <hi>The Anointed.</hi>
+            </p>
+            <p n="2">2. <hi>In Reſpect of his Sacred Relation;</hi> and ſo he was the Lord's Anointed, God's Deputy and Vicegerent, by 'ſpe<g ref="char:EOLhyphen"/>cial Commiſſion.</p>
+            <p>Thirdly, <hi>The Fact it ſelf;</hi> which was,</p>
+            <p>
+               <hi>Firſt,</hi> In its own Nature, Bloody, <hi>He deſtroyed Him.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> In its Principle, Voluntary, <hi>He ſtretched forth his Hand;</hi> which implys a purpoſed Reſolution of Heart to do it.</p>
+            <pb n="9" facs="tcp:98641:6"/>
+            <p>
+               <hi>Thirdly,</hi> In its manner, it was without Fear, <hi>He was not afraid to do that Act,</hi> which he ſhould have trembled at.</p>
+            <p>Of theſe, by God's Aſſiſtance, in their Order.</p>
+            <p>
+               <hi>Firſt,</hi> In that he was a private Man; and for him to execute a Power of <hi>Life,</hi> and <hi>Death,</hi> was an high Preſumption, and would amount to no leſs than horrid <hi>Murther,</hi> if acted upon the meaneſt Perſon in the World; but when, to the Privateneſs of the Condition, is added the higheſt Subjection alſo, this en<g ref="char:EOLhyphen"/>haunces it to be a far greater Aggra<g ref="char:EOLhyphen"/>vation. Had the <hi>Amalekite</hi> Slain his Equal, he had been a <hi>Murtherer;</hi> but the Slaying his Superiour, to whom he had ſworn Faith, and true Allegi<g ref="char:EOLhyphen"/>ance, render'd him a <hi>Parricide.</hi> And therefore, the horrid Sin, of Subjects Murthering their Prince, upon this bare Account, amounts to no leſs than to a Uſurpation of a Juriſdiction, in<g ref="char:EOLhyphen"/>conſiſtent
+<pb n="10" facs="tcp:98641:7"/>
+with all Principles of Right Reaſon and Laws, both of God, and Man; and renders the Perſon that is ſo Guilty, ſuperlatively Criminal, as one who forfeits his Soul to God, and his Life to Man, by the Guilt of the higheſt <hi>Premunire</hi> that can be incurr'd.</p>
+            <p>Thus have I done with the Firſt Em<g ref="char:EOLhyphen"/>phatical Aggravation of the Fact, from the Perſon committing it. And though <hi>Saul</hi> had deſerved to die never ſo juſt<g ref="char:EOLhyphen"/>ly; yet what Commiſſion had the <hi>A<g ref="char:EOLhyphen"/>malekite,</hi> a private Perſon, and his own Subject, to Kill him? And ſo Holy <hi>Da<g ref="char:EOLhyphen"/>vid</hi> tells him, <hi>How, was thou,</hi> &amp;c.</p>
+            <p>
+               <hi>Secondly,</hi> The Fact is rendred ex<g ref="char:EOLhyphen"/>treamly more hainous, by the Second Emphatical Aggravation in the Text, which is taken from the Perſon Slain, namely <hi>Saul,</hi> under a double Conſi<g ref="char:EOLhyphen"/>deration:
+<list>
+                  <item>I. <hi>
+                        <g ref="char:V">Ʋ</g>nctus.</hi>
+                  </item>
+                  <item>II. <hi>
+                        <g ref="char:V">Ʋ</g>nctus Domini.</hi>
+                  </item>
+               </list>
+            </p>
+            <pb n="11" facs="tcp:98641:7"/>
+            <p>
+               <hi>Firſt,</hi> He was <hi>
+                  <g ref="char:V">Ʋ</g>nctus</hi> in his Civil Qua<g ref="char:EOLhyphen"/>lity. He was a Perſon ſolemnly ſepa<g ref="char:EOLhyphen"/>rated, and ſet-apart from other Men, an <hi>Anointed King.</hi> Anointing, or what<g ref="char:EOLhyphen"/>ever the Ceremony of Inveſtiture is; (by the Cuſtoms of ſeveral Nations e<g ref="char:EOLhyphen"/>quivalent thereunto) it puts a Note of higheſt Difference and Diſtinction between the Perſons dignified there<g ref="char:EOLhyphen"/>with, and Others: For Three high and honourable Functions, we read in <hi>Scrip<g ref="char:EOLhyphen"/>ture,</hi> were conferr'd by this diſtinguiſh<g ref="char:EOLhyphen"/>ing Ceremony of <hi>Anointing;</hi> and all of them fenc'd and priviledg'd from In<g ref="char:EOLhyphen"/>juries, by Vertue of that <hi>Holy Oyl;</hi> namely, the <hi>Prieſtly, Prophetical,</hi> and <hi>Royal Offices.</hi> Not to inſtance in the Two former, as not ſuitable to our preſent Occaſion; yet were it eaſy to prove, That the Almighty has Writ<g ref="char:EOLhyphen"/>ten a <hi>Nolite Tangere,</hi> a Priviledge from common Handling, eſpecially the laſt. The <hi>Royal</hi> is ſo highly ſecur'd by the
+<pb n="12" facs="tcp:98641:8"/>
+Holy Scriptures, That they exact from Subjects ſuch a 'ſpecial Awe and Re<g ref="char:EOLhyphen"/>verence towards KINGS, as not only binds the Hand and Tongue, but e<g ref="char:EOLhyphen"/>ven the Heart alſo, to its good Be<g ref="char:EOLhyphen"/>haviour.</p>
+            <p>And in the Caſe of this very King <hi>Saul,</hi> when he was once <hi>Anointed</hi> KING, the <hi>Holy-Ghoſt</hi> impoſes the Brand of <hi>Sons of Belial,</hi> (that is, Sons of the Devil,) upon all thoſe who deſpiſed, or ſpake contumeliouſly of Him, 1 <hi>Sam.</hi> 10.27. And <hi>Solomon,</hi> the Wiſeſt of all Mortals, ſtrictly chargeth us, <hi>Not to curſe</hi> [or wiſh evil to] <hi>the King, no, not in our Thoughts,</hi> Eccleſ. 10.20. So that this Conſidera<g ref="char:EOLhyphen"/>tion was extreamly conducing to the Aggravation of the <hi>Amalekite</hi>'s Sin in my Text; and in him, of every <hi>King-Killer</hi>'s Offence. For, if the leſſer Injury may not be done to KINGS, ſurely the greater may not: If our Tongues, nay, Thoughts, are not to injure them, How much leſs our Hands?</p>
+            <pb n="13" facs="tcp:98641:8"/>
+            <p>
+               <hi>Secondly,</hi> To ſtrengthen this Conſi<g ref="char:EOLhyphen"/>deration yet further, Holy <hi>David</hi> calls him not only <hi>
+                  <g ref="char:V">Ʋ</g>nctus,</hi> Anointed; but <hi>
+                  <g ref="char:V">Ʋ</g>nctum Domini,</hi> the Lord's Anointed; which Title particularly relates Him to God, as his Vicegerent, and en<g ref="char:EOLhyphen"/>haunceth the Sin of every one that ſhall preſume to lay violent Hands upon the <hi>Lord</hi>'s <hi>Anointed,</hi> to the Guilt of <hi>High-Treaſon,</hi> even againſt GOD Himſelf. That the Title of the <hi>Lord</hi>'s <hi>Anointed</hi> is attributed, and belongs to other <hi>Kings</hi> beſides <hi>Saul,</hi> as to all the <hi>Jewiſh</hi> Kings, yea, and beſides, even <hi>Heatheniſh</hi> Kings alſo, is evident from that inſtance of <hi>Cyrus, Iſa.</hi> 41.1. And argues, that the ſame Security belongs to all other <hi>Kings,</hi> as being no leſs related to <hi>God,</hi> and commiſſioned under Him, accord<g ref="char:EOLhyphen"/>ing to that in the Proverbs, <hi>By me Kings Reign.</hi>
+            </p>
+            <p>And ſo I come to the Third Aggra<g ref="char:EOLhyphen"/>vation, taken from the Fact it ſelf, and
+<pb n="14" facs="tcp:98641:9"/>
+that is repreſented notoriouſly Foul, in Three Reſpects:</p>
+            <p>
+               <hi>Firſt,</hi> That it was in its own Nature, Bloody; <hi>He deſtroyed the Lord's Anointed.</hi> It was not a <hi>Murther</hi> intended only, nor a <hi>Murther</hi> barely attempted, with<g ref="char:EOLhyphen"/>out Succeſs; but an actual and real <hi>Murther:</hi> And yet, had he not effected it, the very Attempt, conſidering the Quality of the Perſon, had been ſo hainous a Crime, that the Laws of Nature, and Nations, would have pu<g ref="char:EOLhyphen"/>niſhed it with <hi>Death:</hi> But here the Guilt is infinitely aggravated, by the Execution of that which had been ſo highly Criminal, but to attempt. For a <hi>King,</hi> however attempted againſt, whilſt he is in Being, fills the Royal Seat, and heads the Common-wealth, and animates all Courts of Juſtice, by the Authority of his Name; yea, lays ſome reſtraint upon the moſt Lawleſs and diſſolute Perſons, on the Account
+<pb n="15" facs="tcp:98641:9"/>
+of a Poſſibility of being called to Ac<g ref="char:EOLhyphen"/>count for their Outrages and Enormi<g ref="char:EOLhyphen"/>ties; but the actual taking away of a <hi>King</hi>'s Life, expoſeth the empty Throne to the next potent <hi>
+                  <g ref="char:V">Ʋ</g>ſurper,</hi> ſilenceth the Laws, annulleth all deputed Powers, by the Expiration of their Commiſſi<g ref="char:EOLhyphen"/>ons, renders every Man, in a ſort, his own Maſter, and ſets up, for the Time, as many Lords of miſ-rule in a Nati<g ref="char:EOLhyphen"/>on, as there are evil diſpoſed Perſons in it: And therefore the Fact of this <hi>Amalekite</hi> was the more hainous, as be<g ref="char:EOLhyphen"/>ing an actual deſtroying of the <hi>Lord</hi>'s <hi>Anointed.</hi> But,</p>
+            <p>
+               <hi>Secondly,</hi> It was a voluntary and wil<g ref="char:EOLhyphen"/>ful Act; for, <hi>He ſtretched forth his Hand,</hi> and that with a purpoſe to deſtroy the <hi>King.</hi> Had the <hi>King</hi> accidentally ruſh'd upon his drawn Sword, or had his ar<g ref="char:EOLhyphen"/>med Hand, by Impreſſion from ſome external Force, been made the inſtru<g ref="char:EOLhyphen"/>mental Cauſe of taking away the Life
+<pb n="16" facs="tcp:98641:10"/>
+of the <hi>Lord</hi>'s <hi>Anointed,</hi> or any other like Accident, had render'd him the <hi>Deſtroyer of the King,</hi> though beſides his Intention; yet had it been an Infeli<g ref="char:EOLhyphen"/>city to have been bewail'd all the Days of his Life.</p>
+            <p>And this, I hope, to make further appear, if you pleaſe to conſider, with me, the Perſon, whoſe <hi>Death</hi> we this Day commemorate, compar'd with King <hi>Saul</hi> in my Text; I mean, our late Gra<g ref="char:EOLhyphen"/>cious, and now Glorious Sovereign: A Perſon (by what I have read, and heard of Him) of a Temper ſo far different from <hi>Saul</hi>'s, that as the One ſeem'd to be compos'd of Cruelty; ſo the Other (by all the Relation that I ever met with) ſeem'd to have no<g ref="char:EOLhyphen"/>thing in his Conſtitution, but Cle<g ref="char:EOLhyphen"/>mency: A Perſon in both Capacities, (both of Man, and King) ſo free, not only from the Guilt, but even from the Suſpicion of any enormous Crime,
+<pb n="17" facs="tcp:98641:10"/>
+that even the Malice of his Accuſers themſelves, could find nothing to ſtuff out that black Charge, which they un<g ref="char:EOLhyphen"/>juſtly laid againſt Him; but the un<g ref="char:EOLhyphen"/>happy Conteſts between Himſelf, and his Subjects, which indeed were his great Infelicity, but their Guilt who firſt made the unhappy Breach; and afterwards (as much as in them lay) hindred the making it up; becauſe their own Conſciences (of having un<g ref="char:EOLhyphen"/>pardonably offended Him) told them, they could expect no Security, but in his Ruine.</p>
+            <p>A Perſon, and King, of ſo elevated a ſize, both of Intellectual and Moral Endowments, that I may be bold to ſay, the Stature of his inward Man as much over-topp'd and ſurpaſs'd the moſt accompliſh'd of his Subjects, as King <hi>Saul</hi>'s outward Man did over<g ref="char:EOLhyphen"/>look the reſt of the <hi>Iſraelites,</hi> 1 <hi>Sam.</hi> 10.23.</p>
+            <pb n="18" facs="tcp:98641:11"/>
+            <p>For his <hi>Intellectuals,</hi> He was endow'd with ſuch an height of Fancy, as would deſervedly have won him the Lau<g ref="char:EOLhyphen"/>rel, in a Common-wealth of Poets. He was Maſter of ſo ſublime a Gran<g ref="char:EOLhyphen"/>deur of Language, and ſtately Maje<g ref="char:EOLhyphen"/>ſticalneſs, joyn'd with an amiable Flu<g ref="char:EOLhyphen"/>ency of Stile, as might have chal<g ref="char:EOLhyphen"/>lenged a Dictator's-ſhip amongſt the beſt of Orators; of which, his Royal Remains are an indiſputable Evidence. And for his ſoundneſs of Judgment, both in Points of Controverſie, and Caſes of Conſcience, he might have challenged the Theological Chair, upon the Account of meer worth; and have ſate not only <hi>Regius Profeſſor,</hi> but <hi>Rex Profeſſorum,</hi> in both Univerſities.</p>
+            <p>For his <hi>Morals,</hi> He was Juſt, Vali<g ref="char:EOLhyphen"/>ant, Temperate, Chaſt, Merciful, and what not? and that even to ſuch a Proportion, as that he might have ſet the very beſt of his Subjects a Copy
+<pb n="19" facs="tcp:98641:11"/>
+of Vertue, in his own Example. In<g ref="char:EOLhyphen"/>deed he was a <hi>Prince,</hi> that might have paſt clear, with the univerſal Repu<g ref="char:EOLhyphen"/>tation, <hi>Of the beſt of Engliſh Kings;</hi> had he not been ſo unhappy, as to Reign in the worſt of Times; wherein the <hi>Engliſh</hi> Manners were ſo extreamly de<g ref="char:EOLhyphen"/>bauch'd with the Blandiſhments of a long continued Tranquility, and Plen<g ref="char:EOLhyphen"/>ty, and their Judgments ſo miſerably intoxicated with Prejudice, and Cen<g ref="char:EOLhyphen"/>ſoriouſneſs, that too too many nei<g ref="char:EOLhyphen"/>ther lov'd the Practice of Vertue themſelves, nor would willingly al<g ref="char:EOLhyphen"/>low the Reputation of it in others. A <hi>King,</hi> whom if we had not, by our Sins, render'd our ſelves unworthy to enjoy longer, we had been (it may be) in doubt of nothing more, than being ſurfeited with our own Feli<g ref="char:EOLhyphen"/>city; and that we enjoy'd Him not, all the World muſt bear Him Witneſs, it was not his Fault; ſeeing, at that laſt
+<pb n="20" facs="tcp:98641:12"/>
+and Fatal Treaty, as Providence made it, at <hi>Newport,</hi> He there ſhew'd ſo great a Deſire, in his Gracious Condeſcen<g ref="char:EOLhyphen"/>tions, to make his People Happy, that he even forgot he had any ſhare of his Own to challenge among them; having indeed given them all, but what he could not part with; I mean, That Sovereign Goodneſs of Diſpo<g ref="char:EOLhyphen"/>ſition, which was the only thing al<g ref="char:EOLhyphen"/>moſt that he had left, beſides the re<g ref="char:EOLhyphen"/>dintigrated Affections of his People; divers of whom began then to know Him better, and therefore valued Him the more, out of Conviction, that they had ignorantly perſecuted Him, under a miſtaken Zeal, to ſupport his Throne withall: So that, I think, I may truly ſay, It was the fatal Infa<g ref="char:EOLhyphen"/>tuation and Infelicity of theſe Na<g ref="char:EOLhyphen"/>tions, that they knew not, in the Day of their Viſitation, <hi>The things that be<g ref="char:EOLhyphen"/>longed to their Peace;</hi> and therefore,
+<pb n="21" facs="tcp:98641:12"/>
+were they, (by the Righteous Judg<g ref="char:EOLhyphen"/>ment of God) for a full Decad of Years, and more, juſtly hid from their Eyes:
+<q>
+                  <l>O fortunatos nimium bona ſi ſua nôſſent</l>
+                  <l>
+                     <hi>Anglicolas!—</hi>
+                  </l>
+               </q>
+            </p>
+            <p>And for his <hi>Religion,</hi> this I think may ſafely be ſaid of Him, without Ex<g ref="char:EOLhyphen"/>ception from any, but ſuch as all Re<g ref="char:EOLhyphen"/>ligion may bluſh to own, That if the Imployment of his ſerene Hours were of a piece with the Entertain<g ref="char:EOLhyphen"/>ment of his Solitudes and Sufferings; that Man is not enough Chriſtian himſelf, who can admit a Diſpute in his own Boſom, whether he ought not to be ranked amongſt the chiefeſt of Chriſtians: And, indeed, whatever we thought of Him Living, as to his Re<g ref="char:EOLhyphen"/>ligion; the Conſequences of his Death too ſadly Evidenc'd, how much the <hi>Proteſtant Cauſe</hi> was concern'd in his Preſervation; and eſpecially the ſad
+<pb n="22" facs="tcp:98641:13"/>
+Face of this Orphant Church of <hi>En<g ref="char:EOLhyphen"/>gland,</hi> after the unhappy Death of this its Nurſing Father; which, from that Time forwards, became the moſt wo<g ref="char:EOLhyphen"/>ful Scene of Anarchy and Confuſion, that ever was ſeen in the Chriſtian World, if we may at all give Credit to the beſt of Hiſtories; not except<g ref="char:EOLhyphen"/>ing even <hi>Munſter</hi> it ſelf, which ſaw but the Prologue to our Fatal Tragedy: For, who knows not, whatever Per<g ref="char:EOLhyphen"/>ſons or Parties ſtept up in his vacant Seat, made it the Maſter-piece of their Policy, like ſelf-intereſted Chirurge<g ref="char:EOLhyphen"/>ons, to keep our Wounds open, that they might keep themſelves in Pra<g ref="char:EOLhyphen"/>ctice, and to maintain oppoſite Fa<g ref="char:EOLhyphen"/>ctions, to peck at one another; that whilſt the People were buſied in pri<g ref="char:EOLhyphen"/>vate Conteſts, they might be the leſs ſenſible of their Oppreſſions; inſo<g ref="char:EOLhyphen"/>much, that the Revival of old Here<g ref="char:EOLhyphen"/>ſies and Schiſms, every one of which,
+<pb n="23" facs="tcp:98641:13"/>
+carried a Legion of new Ones in its Belly; together, with the apparent Dangers of Extirpation to the true <hi>Proteſtant Religion,</hi> and all its Profeſſors, for many Years together (ſince our Sins remov'd Him from us;) have con<g ref="char:EOLhyphen"/>vinced not a few, that he was not ſo much to blame, as was too common<g ref="char:EOLhyphen"/>ly thought, for not giving his Con<g ref="char:EOLhyphen"/>ſent to thoſe violent and ſudden Changes, which their miſ-guided Zeal, (amongſt many others alike miſ-led) in thoſe unhappy Times, too impor<g ref="char:EOLhyphen"/>tunately call'd for.</p>
+            <p>In the mean while, If what I have ſaid concerning the Perſon, whoſe <hi>Funeral-Anniverſary</hi> this Day is appoint<g ref="char:EOLhyphen"/>ed to ſolemnize, and, I am afraid, I have rather injur'd his bleſſed Me<g ref="char:EOLhyphen"/>mory, by ſaying too little, than the Truth, by ſaying too much of Him; I ſay, if you find your ſelves, in any meaſure, ſenſible of the Loſs you ſuf<g ref="char:EOLhyphen"/>fer'd
+<pb n="24" facs="tcp:98641:14"/>
+by his violent Removal; I hope then you will be the better prepar'd to entertain the next Conſideration, wherein this accurſed <hi>Parricide</hi> exceed<g ref="char:EOLhyphen"/>ed that of King <hi>Saul</hi>'s, in my Text, if we conſider the Perſons who com<g ref="char:EOLhyphen"/>mitted this horrid Fact.</p>
+            <p>And ſo I come to run the Parallel between the Perſons Murthered, The <hi>Death</hi> of King <hi>Saul,</hi> and the ſad Oc<g ref="char:EOLhyphen"/>caſion of this Day's Solemnity.</p>
+            <p>And indeed, many <hi>Kings</hi> Deaths are Recorded in Holy Scripture, and di<g ref="char:EOLhyphen"/>vers of them Violent, and Bloody, and many of them brought about by the Hands of Rebellious and Trai<g ref="char:EOLhyphen"/>terous Subjects: But, to equal all the hainous Circumſtances of the moſt execrable <hi>Murther</hi> committed this Day, on King <hi>Charles</hi> the <hi>Firſt,</hi> of ever Bleſſed Memory, I know no Exam<g ref="char:EOLhyphen"/>ple that can in the leaſt pretend to outvie it.</p>
+            <pb n="25" facs="tcp:98641:14"/>
+            <p>'Tis true indeed, that both of them were <hi>Kings Anointed,</hi> and the <hi>Lord</hi>'s <hi>A<g ref="char:EOLhyphen"/>nointed,</hi> and both <hi>Murther'd</hi> by Sub<g ref="char:EOLhyphen"/>jects; but the Difference of them ſo vaſtly diſtant, that no Power of In<g ref="char:EOLhyphen"/>vention can ever bring them to an e<g ref="char:EOLhyphen"/>qual Parallel. As,</p>
+            <p>
+               <hi>Firſt,</hi> They were not Native-For<g ref="char:EOLhyphen"/>reigners, as the <hi>Amalekite</hi> in my Text, was; but theſe <hi>Parricides</hi> were his Ma<g ref="char:EOLhyphen"/>jeſties Native Subjects, that had drawn their firſt Breath in his Hereditary Dominions; and to this natural Bond of Allegiance, had voluntary added divers ſtronger Tyes of Religious Oaths, Proteſtations, and Covenants; yea, ſome of them that lifted up not their Heads only, but their Hands a<g ref="char:EOLhyphen"/>gainſt Him, were ſuch as did eat of his Bread, his own Sworn Servants, and none of them obliged, by any ſuch Provocations of cruel Uſages; ſo that it is hard to conceive, how it
+<pb n="26" facs="tcp:98641:15"/>
+might be poſſible to load a Malefactor with more aggravating Circumſtan<g ref="char:EOLhyphen"/>ces, to render Him monſtrouſly Cri<g ref="char:EOLhyphen"/>minal. But,</p>
+            <p>
+               <hi>Secondly,</hi> A Second Conſideration to amplifie the horrid <hi>Murther</hi> of this Day, may be taken from the Fact it ſelf, in that it outvies the Death of King <hi>Saul:</hi> For the <hi>Amalekite</hi>'s Fact was a ſneaking Buſineſs, acted in a Cor<g ref="char:EOLhyphen"/>ner; ſo that it had not been known, but by his own Relating of it: But that of this Day, was a publick Tragedy, in all the parts of it; wherein the Con<g ref="char:EOLhyphen"/>ſpirators made all the World Specta<g ref="char:EOLhyphen"/>tors of their audacious Effrontery: For here was a Pageantry of publick Juſtice, an <hi>High-Court,</hi> a <hi>Bench,</hi> and a <hi>Bar,</hi> a <hi>Preſident,</hi> and a <hi>Priſoner,</hi> an <hi>In<g ref="char:EOLhyphen"/>dictment,</hi> and a <hi>Proſecution;</hi> and, at laſt, an <hi>illegal</hi> and <hi>wicked Sentence,</hi> even a<g ref="char:EOLhyphen"/>gainſt the <hi>Lord</hi>'s <hi>Anointed;</hi> and all theſe in the moſt publick Place of Judica<g ref="char:EOLhyphen"/>ture,
+<pb n="27" facs="tcp:98641:15"/>
+in the Three Nations: And, laſt of all, a moſt <hi>Bloody Execution,</hi> and that not in a Corner, but in the open Street, in the Face of the Sun; as if they meant (with a kind of Defiance to God Himſelf) to call Him in, as a publick Spectator, to behold how in<g ref="char:EOLhyphen"/>ſolently they trampled upon his Au<g ref="char:EOLhyphen"/>thority, in his undoubted Vicegerent. A Tragedy, which, in all the Acts and Parts of it, I may be confident to af<g ref="char:EOLhyphen"/>firm, all the Hiſtories in the World can never parallel. For many <hi>Kings</hi> indeed have died by the Sword, by the Dagger, and the Piſtol, and many by poiſonous Compoſitions, and other ſuch Inſtruments of private and clan<g ref="char:EOLhyphen"/>deſtine Ambition, and Revenge; but never Any, till this black Day, by the <hi>Executioner</hi>'s <hi>Axe,</hi> upon a publick Scaf<g ref="char:EOLhyphen"/>fold, in the Face of his own <hi>Royal Pal<g ref="char:EOLhyphen"/>lace;</hi> ſo that, here was a Confluence of all that wilful Cruelty and Inſo<g ref="char:EOLhyphen"/>lence
+<pb n="28" facs="tcp:98641:16"/>
+could contribute to the Aggra<g ref="char:EOLhyphen"/>vation of a Villany.</p>
+            <p>I ſhall conclude All, with an hum<g ref="char:EOLhyphen"/>ble Supplication to the <hi>King</hi> of Kings; <hi>That the horrid</hi> Murther, <hi>which was this Day committed on the Sacred Perſon of the</hi> Lord's Anointed, <hi>may be ſo wiped off from the Score of theſe Nations, That we be ne<g ref="char:EOLhyphen"/>ver viſited with thoſe very Evils, or any that may appear ſo hainous as thoſe were; And as God hath been ſo graciouſly merciful to us, and deliver'd us once and again, within a few Years laſt paſt, and has pro<g ref="char:EOLhyphen"/>tected and defended us from all thoſe Dan<g ref="char:EOLhyphen"/>gers, which might have happened to us, if his infinite Mercy had not interpos'd; So we may perpetually honour our preſent So<g ref="char:EOLhyphen"/>vereigns, that now ſit on the Throne, with the moſt Noble and Glorious Titles of The Allayors of our mutual Heats and Animo<g ref="char:EOLhyphen"/>ſities, The Moderatours of all our Diffe<g ref="char:EOLhyphen"/>rences, and The Reconcilers of us to each other, in <g ref="char:V">Ʋ</g>nity, and Godly Love;</hi> That ſo we
+<pb n="29" facs="tcp:98641:16"/>
+may walk worthy of the Vocation wherewith we are called, with all Lowlineſs, and Meekneſs, with Long-ſuffering, Forbearing one another in Love; Endeavouring to keep the Uni<g ref="char:EOLhyphen"/>ty of the Spirit, in the Bond of Peace, <hi>Eph.</hi> 4.1, 2, 3.</p>
+            <p>
+               <hi>Which God of his infinite Mercy grant we may All do, for Jeſus Chriſt his Sake,</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>Page 25. Line 18. for <hi>Heads,</hi> Read <hi>Heels.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
